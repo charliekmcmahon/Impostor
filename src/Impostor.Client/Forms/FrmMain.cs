@@ -31,7 +31,7 @@ namespace Impostor.Client.Forms
                 MessageBoxButtons.OK,
                 MessageBoxIcon.Error);
 
-            comboIp.Text = string.Empty;
+            comboIp.Text = "amongus.macca.xyz";
             comboIp.Focus();
 
             comboIp.Enabled = true;
